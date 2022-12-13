@@ -3,5 +3,5 @@ SPAM OR HAM
 
 Team Project
 - Betty Han
-- Jungyu Lee
+- Jungyu (Won) Lee
 - Shibo Wang
